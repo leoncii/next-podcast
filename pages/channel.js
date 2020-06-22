@@ -5,8 +5,6 @@ import Error from 'next/error'
 
 export default class extends React.Component {
 	
-	
-
 	static async getInitialProps({ query, res }) {
 		try {
 			let idChannel = query.id

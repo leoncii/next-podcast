@@ -2,7 +2,8 @@
 
 App de Podcasts con la API de AudioBoom
 y nextjs
-![Foto de la App ](./.readme-statics/mifoto.png)
+![Foto de la App ](./.readme-statics/podcast.png)
+![Foto de la App ](./.readme-statics/podcastid.png)
 
 ![url de la app](podcast-1aw44e97b.now.sh)
 

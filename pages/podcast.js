@@ -8,7 +8,7 @@ export default class extends React.Component {
 		let idPod = query.id
 
 		let reqPod = await fetch(`https://api.audioboom.com/audio_clips/${idPod}.mp3`)
-		let clip = (await reqPod.json()).body.audio_clip
+		let clip = (await reqPod.()json).body.audio_clip
 
 		return { clip }
 	}
